@@ -1,0 +1,12 @@
+# Tipo(scope opcional): descripción breve
+# 
+# Tipos comunes: feat | fix | docs | style | refactor | perf | test | chore
+# Usa el imperativo: "add", "fix", "update"
+# Máximo 50 caracteres en la primera línea
+#
+# Deja una línea en blanco y luego el cuerpo opcional:
+#
+# - Describe qué hiciste y por qué
+# - Lista cambios importantes
+#
+# Referencia la tarea o issue si corresponde: #123
