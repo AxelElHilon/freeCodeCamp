@@ -1,3 +1,5 @@
+/* General styles */
+
 * {
   padding:0;
   margin: 0;
@@ -8,6 +10,8 @@ body {
   background-color: #f8f9f9 ;
   line-height: 1.4;
 }
+
+/* Main section */
 
 #image {
   max-width: 100%;
@@ -45,6 +49,7 @@ body {
   list-style: none;
 }
 
+/* Animated line for dividing information into a main section */
 .divisor {
   width: 50%;
   height: 3px;
@@ -70,3 +75,4 @@ body {
 
 
 }
+
