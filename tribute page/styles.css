@@ -10,7 +10,7 @@ body {
 }
 
 #image {
-  max-width: 50%;
+  max-width: 100%;
   height: auto;
   display: block;
   margin: 40px auto;
@@ -25,9 +25,14 @@ body {
 
 #img-div {
   display: grid;
-  grid-template-columns: 50% 30% ;
-  grid-template-rows: 1fr;
+  grid-template-columns: 30% 30% ;
+  grid-template-rows: 1fr 1fr;
   justify-content: center;
   align-items: center;
+}
+
+#img-caption {
+  grid-column: 2 / 3;
+  grid-row: 2 / 3;
 }
 
