@@ -85,4 +85,5 @@ body {
   grid-template-columns: 40% 60%;
   grid-template-rows: 1fr;
   column-gap: 50px;
+  margin-bottom: 3vw;
 }
